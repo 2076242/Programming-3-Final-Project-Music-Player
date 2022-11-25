@@ -3,7 +3,7 @@
 </p>
 
 A small project developped by Anna Moscoloni and myself. As the final project of our Programming 3 class. It has the ability to play any commonly used music format and is able to save playlists in the form of XML,
-as we had yet to be introduce to databases. 
+as we had yet to be introduced to databases. 
   
 
 
